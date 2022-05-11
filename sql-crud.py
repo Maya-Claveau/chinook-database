@@ -42,11 +42,11 @@ ada_lovelace = Programmer(
 )
 
 alan_turing = Programmer(
-    first_name ="Alan",
-    last_name ="Turing",
-    gender ="M",
-    nationality ="British",
-    famous_for ="Modern Computing"
+    first_name="Alan",
+    last_name="Turing",
+    gender="M",
+    nationality="British",
+    famous_for="Modern Computing"
 )
 
 grace_hopper = Programmer(
